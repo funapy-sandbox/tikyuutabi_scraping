@@ -1,2 +1,2 @@
 # tikyuutab_scraping
-  Scraping The Earth Trip For Training Data Sets :bow:
+  Scraping The Earth Trip Data For Training Data Sets :bow:
